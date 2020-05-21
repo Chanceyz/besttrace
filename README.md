@@ -1,2 +1,2 @@
 # besttrace
-only besttrace for linux
+besttrace for linux
